@@ -16,7 +16,6 @@
   ],
 
   "browser_action": {
-    "default_icon": "micon.ico",
-    "default_popup": "backgroundPage.html"
+    "default_icon": "micon.ico"
   }
 }
