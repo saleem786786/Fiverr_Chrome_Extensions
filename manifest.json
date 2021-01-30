@@ -1,6 +1,6 @@
 {
-  "name": "Hello World",
-  "description": "Hello World Chrome App.",
+  "name": "Fiverr Alert System",
+  "description": "Fiverr Alert System",
   "version": "0.1",
   "manifest_version": 2,
   "background": {
